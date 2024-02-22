@@ -3,5 +3,5 @@ title: Ear protector 1
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem
   ipsum dolor sit amet, consectetur adipiscing elit.
 link: https://www.amazon.co.uk
-image: /static/img/ear-protector-1.jpeg
+image: /static/img/ear-protector-3.jpeg
 ---
