@@ -5,6 +5,7 @@ date: 2024-09-03
 author: David White
 tags:
   - second-tag
+type: Article
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.

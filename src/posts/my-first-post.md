@@ -7,6 +7,7 @@ tags:
   - left
   - center
   - right
+type: Article
 ---
 # This is a Heading h1
 
