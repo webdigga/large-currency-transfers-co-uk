@@ -75,4 +75,4 @@ collections:
           - { label: URL, name: url, widget: string }
           - { label: Powered by, name: poweredBy, widget: string }
           - { label: Description, name: description, widget: string }
-          - { label: Type (type of template, Article/Products etc, used for Open Graph tags), name: type, widget: string }
+          - { label: Type (type of template), name: type, widget: string }
