@@ -30,6 +30,23 @@ collections:
         multiple: true
         create: true
         options: ["Tags", "created", "from", "config.yml"]
+  - label: "ProductCard"
+    name: "productCard"
+    folder: "src/productCards"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Link", name: "link", widget: "string" }
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        choose_url: true
+        media_library:
+          config:
+            multiple: false
   - label: "Settings"
     name: "settings"
     editor:
