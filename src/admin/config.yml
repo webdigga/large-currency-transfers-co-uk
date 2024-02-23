@@ -77,3 +77,5 @@ collections:
           - { label: Powered by, name: poweredBy, widget: string }
           - { label: Description, name: description, widget: string }
           - { label: Type (type of template), name: type, widget: string }
+          - { label: Logo (URL), name: logoUrl, widget: string }
+          - { label: Logo (Alt), name: logoAlt, widget: string }
