@@ -1,8 +1,12 @@
 ---
-title: Ear protector 2
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem
-  ipsum dolor sit amet, consectetur adipiscing elit.
-link: https://www.amazon.co.uk
+title: Swimming Ear Plugs
+description: " Auritech earplugs for swimming and watersports represent over two
+  decades of expertise from leading audiology experts, setting them apart from
+  traditional foam, wax, or silicone earplugs. Designed for comfort and
+  versatility, they are suitable for all ages. With Auritech earplugs, water is
+  effectively blocked from entering the ear during activities like swimming,
+  snorkeling, and surfing, ensuring a worry-free aquatic experience."
+link: https://www.amazon.co.uk/AURITECH-WATER-SPORTS-Intelligent-Protection/dp/B00DEDN4JE?maas=maas_adg_66FED6D2A670277255112D7CD8040AE9_afap_abs&ref_=aa_maas&tag=maas
+imageAlt: Ear Protection For Swimming
 image: /static/img/ear-protector-3.jpeg
-imageAlt: Some alt text here for 2
 ---
