@@ -79,3 +79,10 @@ collections:
           - { label: Type (type of template), name: type, widget: string }
           - { label: Logo (URL), name: logoUrl, widget: string }
           - { label: Logo (Alt), name: logoAlt, widget: string }
+          - label: "Image"
+            name: "image"
+            widget: "image"
+            choose_url: true
+            media_library:
+              config:
+                multiple: false
