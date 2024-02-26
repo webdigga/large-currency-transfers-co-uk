@@ -1,5 +1,5 @@
 ---
-title: Custom Fit Ear Plugs
+title: Custom Fit earplugs
 description: Auritech Custom Made earplugs are renowned for their exceptional
   comfort and remarkable effectiveness. When it comes to securing the ultimate
   hearing protection for your activity, look no further.
