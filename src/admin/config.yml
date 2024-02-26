@@ -41,7 +41,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Link", name: "link", widget: "string" }
+      - { label: "Article Link", name: "articleLink", widget: "string" }
+      - { label: "Affiliate Link", name: "affiliateLink", widget: "string" }
       - { label: "Image Alt", name: "imageAlt", widget: "string" }
       - label: "Image"
         name: "image"
