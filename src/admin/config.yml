@@ -18,6 +18,7 @@ collections:
     create: true
     editor:
       preview: false
+    slug: "{{ title }}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
@@ -29,7 +30,6 @@ collections:
       - widget: select
         label: "tags"
         name: "tags"
-        slug: "{{title}}"
         multiple: true
         create: true
         options: ["article"]
