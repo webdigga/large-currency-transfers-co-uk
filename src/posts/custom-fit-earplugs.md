@@ -10,4 +10,4 @@ tags:
   - center
   - right
 ---
-This needs to be filled in
+This needs to be filled in.
