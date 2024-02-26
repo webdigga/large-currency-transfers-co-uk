@@ -1,10 +1,7 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
+  - text: Travelling ear plugs
+    url: /posts/travelling-ear-plugs
+  - text: Concert Ear-Plugs
+    url: /posts/ear-protectors-music/
   - text: Articles
-    url: "/articles"
+    url: /articles
