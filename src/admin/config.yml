@@ -49,6 +49,22 @@ collections:
         media_library:
           config:
             multiple: false
+  - label: "Hero"
+    name: "hero"
+    folder: "src/hero"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        choose_url: true
+        media_library:
+          config:
+            multiple: false
   - label: "Settings"
     name: "settings"
     editor:
