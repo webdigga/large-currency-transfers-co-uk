@@ -1,5 +1,5 @@
 ---
-title: Swimming Ear Plugs
+title: Swimming earplugs
 description: " Auritech earplugs for swimming and watersports represent over two
   decades of expertise from leading audiology experts, setting them apart from
   traditional foam, wax, or silicone earplugs. "
