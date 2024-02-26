@@ -4,6 +4,11 @@
 
 /*Your Custom CSS Goes here*/
 
+:root {
+  --primary-color: rgb(29, 78, 216);
+  --primary-hover: rgb(30 64 175);
+}
+
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
 }
