@@ -1,5 +1,5 @@
 const environment = process.env.environment;
-const isProd = environment === 'Prod';
+const isProd = environment === 'PROD';
 
 module.exports = {
 	isProd: isProd
