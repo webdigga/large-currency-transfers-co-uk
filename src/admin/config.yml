@@ -44,6 +44,8 @@ collections:
       - { label: "Article Link", name: "articleLink", widget: "string" }
       - { label: "Affiliate Link", name: "affiliateLink", widget: "string" }
       - { label: "Image Alt", name: "imageAlt", widget: "string" }
+      - { label: "Product rating", name: "productRating", widget: "string" }
+      - { label: "Product reviews", name: "productReviews", widget: "string" }
       - label: "Image"
         name: "image"
         widget: "image"
