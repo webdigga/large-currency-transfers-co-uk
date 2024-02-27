@@ -42,6 +42,11 @@
     {% endif %}
   </head>
   <body class="bg-white dark:bg-slate-800">
+
+	{% if env.isProd %}
+		<h1>WE ARE IN PROD!!!!!!!</h1>
+	{% endif %}
+
     {% include "./partials/navbar.html" %}
 
     {{ content | safe }}
