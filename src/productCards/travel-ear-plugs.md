@@ -8,5 +8,5 @@ affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-
 imageAlt: Ear Plugs For Travelling
 productRating: "3.3"
 productReviews: "4"
-image: /static/img/travel_300x190.jpg
+image: /static/img/amazon-travel.jpg
 ---
