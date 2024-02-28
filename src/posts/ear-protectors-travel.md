@@ -1,5 +1,5 @@
 ---
-title: Travelling earplugs
+title: Travelling Ear Plugs
 description: Experience precision noise filtration with Auritech Hearing
   Protectors, CE-approved for your peace of mind.
 author: David White
