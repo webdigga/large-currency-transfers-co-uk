@@ -1,5 +1,5 @@
 ---
-title: Hear Protection For Workers
+title: Hearing Protection For Workers
 description: Factory and work machinery can generate noise levels of up to
   120dB, posing a significant risk to your hearing health. Considering that
   permanent hearing damage can occur from exposure to just 85dB, it is
