@@ -1,5 +1,5 @@
 ---
-title: Travel earplugs
+title: Travel Ear Plugs
 description: "Experience precision noise filtration with Auritech Hearing
   Protectors, CE-approved for your peace of mind. Our innovative design allows
   you to engage in conversations while muting background travel noise. "
