@@ -1,5 +1,5 @@
 ---
-title: Music earplugs
+title: Music Ear Plugs
 description: Experience precision noise filtration tailored for live music
   enthusiasts and musicians with Auritech Hearing Protectors.
 articleLink: /posts/music-ear-plugs/
