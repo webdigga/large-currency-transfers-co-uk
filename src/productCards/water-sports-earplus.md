@@ -1,5 +1,5 @@
 ---
-title: Water Sports Earplus
+title: Water Sports Ear Plugs
 description: Regular exposure to water can lead to bacterial build-up,
   irritation, and potential damage inside the ear. To safeguard the middle ear
   and eardrum from water contact, it's advisable to use hearing protectors.
