@@ -5,5 +5,5 @@ description: Discover Auritech Hearing Protectors, meticulously crafted by top
   expertise.
 buttonText: Find out more
 buttonUrl: /posts/about/
-image: /static/img/hero-image-2.jpg
+image: /static/img/hero-image-2.webp
 ---
