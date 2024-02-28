@@ -4,6 +4,8 @@ description: Ear Protection For Shooting
 author: Jonny Rowse
 date: 2024-02-28T12:31:36.062Z
 type: Article
+affiliateLink: https://www.amazon.co.uk/AURITECH-Earplugs-Intelligent-Protection-shooting/dp/B06XHK1LVX?maas=maas_adg_F54FC9572F114A1B9F5EB90C2E8D607C_afap_abs&ref_=aa_maas&tag=maas
+affiliateName: Amazon
 productRating: "4.2"
 productReviews: "100"
 imageAlt: Ear Protection For SHooting
