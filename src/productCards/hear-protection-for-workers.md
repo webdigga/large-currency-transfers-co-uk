@@ -5,7 +5,7 @@ description: Factory and work machinery can generate noise levels of up to
   permanent hearing damage can occur from exposure to just 85dB, it is
   imperative to prioritize the use of hearing protection at all times in these
   environments.
-articleLink: https://ear-protectors.netlify.app/admin/#/collections/article/entries/shooting-ear-plugs
+articleLink: /post/hearing-protectors-for-workers
 affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-Environments/dp/B06XHKKGHB?maas=maas_adg_5EC43EE113062B5397551B39C7E07525_afap_abs&ref_=aa_maas&tag=maas
 imageAlt: Ear Plugs For Workers
 productRating: "4.2"
