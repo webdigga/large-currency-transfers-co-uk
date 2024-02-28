@@ -1,5 +1,5 @@
 ---
-title: Music earplugs
+title: Music Ear Plugs
 description: This needs to be filled in
 author: David White
 date: 2024-02-26T14:45:30.703Z
