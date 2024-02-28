@@ -1,6 +1,9 @@
-const environment = process.env.environment;
+const environment = process.env.ENVIRONMENT;
 const isProd = environment === 'PROD';
+const site = process.env.SITE;
 
 module.exports = {
-	isProd: isProd
+	environment,
+	isProd: isProd,
+	site: site
 }
