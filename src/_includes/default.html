@@ -55,17 +55,8 @@
     {% endif %}
 
 	{% if env.isProd %}
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BFX3P6GF6Z"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-
-			function gtag() {
-				dataLayer.push(arguments);
-			}
-
-			gtag('js', new Date());
-			gtag('config', 'G-BFX3P6GF6Z');
-		</script>
+		<script defer src="https://www.googletagmanager.com/gtag/js?id=G-BFX3P6GF6Z"></script>
+		<script defer src="/static/js/googleAnalytics.js"></script>
 	{% endif %}
   </head>
   <body class="bg-white dark:bg-slate-800">
