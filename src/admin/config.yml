@@ -29,7 +29,7 @@ collections:
       - { label: "Affiliate name", name: "affiliateName", widget: "string", required: false }
       - { label: "Product rating", name: "productRating", widget: "string", required: false }
       - { label: "Product reviews", name: "productReviews", widget: "string", required: false }
-      - { label: "Image Alt", name: "imageAlt", widget: "string" }
+      - { label: "Image Alt", name: "imageAlt", widget: "string", required: false }
       - widget: select
         label: "tags"
         name: "tags"
@@ -40,6 +40,7 @@ collections:
         name: "image"
         widget: "image"
         choose_url: true
+        required: false
         media_library:
           config:
             multiple: false
