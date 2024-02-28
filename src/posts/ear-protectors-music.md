@@ -1,5 +1,5 @@
 ---
-title: Concert earplugs
+title: Concert Ear Plugs
 description: Experience precision noise filtration tailored for live music
   enthusiasts and musicians with Auritech Hearing Protectors. Enjoy
   crystal-clear sound quality while safeguarding your hearing from harmful noise
