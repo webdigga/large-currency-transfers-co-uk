@@ -6,12 +6,11 @@ date: 2024-02-26T14:45:30.703Z
 type: Article
 affiliateLink: https://www.auritech.co.uk/custom-fit-earplugs.html?utm_source=arragon_affiliates&utm_content=home_page
 affiliateName: Auritech
+imageAlt: MCN Quality rating
 tags:
   - article
-image: ""
+image: /static/img/custom_fit_review.png
 ---
-![](/static/img/custom_fit_review.png)
-
 How We Create Your Custom Made Ear Plugs
 
 1. Our experienced technicians will meticulously examine your ear canals to ensure precise measurements.
