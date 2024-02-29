@@ -53,6 +53,10 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  eleventyConfig.addCollection("productPosts", function(collectionApi) {
+    return collectionApi.getFilteredByTags("product");
+  });
+
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
   return {

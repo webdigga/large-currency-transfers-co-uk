@@ -25,7 +25,7 @@ productRating: "4.2"
 productReviews: "11"
 imageAlt: Work Ear Plugs
 tags:
-  - article
+  - product
 image: /static/img/work-pack.jpg
 ---
 For over two decades, Auritech WORK Hearing Protectors have been meticulously crafted by top audiology experts, surpassing traditional foam, wax, or silicone earplugs in quality and effectiveness.

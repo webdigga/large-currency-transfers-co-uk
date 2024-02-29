@@ -12,9 +12,7 @@ productReviews: "30"
 imageAlt: Auritech water sports earplugs - Intelligent Hearing Protection for
   Swimming and other Water Sports
 tags:
-  - left
-  - center
-  - right
+  - product
 image: /static/img/water-sports.jpg
 ---
 **Why Buy Auritech Swimming Ear Plugs**

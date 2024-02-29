@@ -12,7 +12,7 @@ productRating: "4.2"
 productReviews: "41"
 imageAlt: Auritech Music Earplugs- Intelligent Hearing Protection for music lovers
 tags:
-  - article
+  - product
 image: /static/img/music.jpg
 ---
 **Experience precision noise filtration designed specifically for listening to live music and providing essential hearing protection for musicians.**

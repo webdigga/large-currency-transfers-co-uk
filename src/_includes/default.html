@@ -90,15 +90,9 @@
 
 	{% if env.isProd %}
 		<script>
-			const declinedConsentButton = document.getElementById('grant-declined');
 			const grantConsentButton = document.getElementById('grant-consent');
 
-			declinedConsentButton.addEventListener("click", function() {
-				localStorage.setItem("consentClicked", "true");
-			});
-
 			grantConsentButton.addEventListener("click", function() {
-				localStorage.setItem("consentClicked", "true");
 				localStorage.setItem("consentGranted", "true");
 
 				function gtag() { dataLayer.push(arguments); }

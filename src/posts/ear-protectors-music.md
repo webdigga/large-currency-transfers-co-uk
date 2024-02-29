@@ -15,9 +15,7 @@ productRating: "4.2"
 productReviews: "41"
 imageAlt: Auritech Music Earplugs - Intelligent Hearing Protection for music lovers
 tags:
-  - left
-  - center
-  - right
+  - product
 image: /static/img/music.jpg
 ---
 ## Why Choose Auritech Hearing Protectors for Music?

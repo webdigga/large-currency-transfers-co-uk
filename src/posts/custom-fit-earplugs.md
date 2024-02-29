@@ -8,7 +8,7 @@ affiliateLink: https://www.auritech.co.uk/custom-fit-earplugs.html?utm_source=ar
 affiliateName: Auritech
 imageAlt: MCN Quality rating
 tags:
-  - article
+  - product
 image: /static/img/custom_fit_review.png
 ---
 How We Create Your Custom Made Ear Plugs

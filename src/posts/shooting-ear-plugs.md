@@ -10,7 +10,7 @@ productRating: "4.2"
 productReviews: "226"
 imageAlt: Ear Protection For SHooting
 tags:
-  - article
+  - product
 image: /static/img/amazon_shoot.jpg
 ---
 

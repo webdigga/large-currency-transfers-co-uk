@@ -11,7 +11,7 @@ productRating: "4.2"
 productReviews: "433"
 imageAlt: Auritech Biker Earplugs - Intelligent Hearing Protection for Motorcyclists
 tags:
-  - article
+  - product
 image: /static/img/biker-pack.jpg
 ---
 **Precision noise filtration**

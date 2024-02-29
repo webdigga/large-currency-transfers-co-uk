@@ -12,7 +12,7 @@ productReviews: "4"
 imageAlt: Auritech Travel Earplugs - Intelligent Hearing Protection for Flying
   and Travelling
 tags:
-  - article
+  - product
 image: /static/img/travel.jpg
 ---
 Our innovative design allows you to engage in conversations while muting background travel noise. Say goodbye to the muffling and occlusion effect commonly experienced with other earplugs. With no mould required, these earplugs offer a universal fit for hassle-free use. Plus, they're reusable, washable, and exceptionally comfortable for extended wear. Choose Auritech for superior hearing protection without compromise.
