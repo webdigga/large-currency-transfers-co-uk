@@ -8,7 +8,7 @@ affiliateLink: https://www.auritech.co.uk/custom-fit-earplugs.html?utm_source=ar
 affiliateName: Auritech
 tags:
   - article
-image: /static/img/custom_fit_website_image.jpg
+image: ""
 ---
 ![](/static/img/custom_fit_review.png)
 
