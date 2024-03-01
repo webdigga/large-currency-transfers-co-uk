@@ -10,5 +10,5 @@ affiliateLink: https://www.amazon.co.uk/AURITECH-Earplugs-Intelligent-Protection
 imageAlt: Ear Protection For Shooting
 productRating: "4.2"
 productReviews: "226"
-image: /static/img/shooting_ear_plugs_300x190.jpg
+image: /static/img/shooting_ear_plugs_300x190.webp
 ---
