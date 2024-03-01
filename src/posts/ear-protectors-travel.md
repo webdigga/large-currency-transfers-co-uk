@@ -9,10 +9,10 @@ affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-
 affiliateName: Amazon
 productRating: "3.3"
 productReviews: "4"
-imageAlt: Auritech Travel Earplugs
+rightImageAlt: Auritech Travel Earplugs
 tags:
   - product
-image: /static/img/travel.jpg
+rightImage: /static/img/travel.jpg
 ---
 Our innovative design allows you to engage in conversations while muting background travel noise. Say goodbye to the muffling and occlusion effect commonly experienced with other earplugs. With no mould required, these earplugs offer a universal fit for hassle-free use. Plus, they're reusable, washable, and exceptionally comfortable for extended wear. Choose Auritech for superior hearing protection without compromise.
 

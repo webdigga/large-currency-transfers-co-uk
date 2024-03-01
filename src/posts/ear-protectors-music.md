@@ -13,10 +13,10 @@ affiliateLink: https://www.amazon.co.uk/Auritech-Earplugs-Intelligent-Hearing-Pr
 affiliateName: Amazon
 productRating: "4.2"
 productReviews: "41"
-imageAlt: Auritech Music Earplugs - Intelligent Hearing Protection for music lovers
+rightImageAlt: Auritech Music Earplugs - Intelligent Hearing Protection for music lovers
 tags:
   - product
-image: /static/img/music.jpg
+rightImage: /static/img/music.jpg
 ---
 ## Why Choose Auritech Hearing Protectors for Music?
 

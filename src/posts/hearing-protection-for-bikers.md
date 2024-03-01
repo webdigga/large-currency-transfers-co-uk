@@ -9,10 +9,10 @@ affiliateLink: https://www.amazon.co.uk/Auritech-BIKER-Earplugs-Intelligent-Moto
 affiliateName: Amazon
 productRating: "4.2"
 productReviews: "433"
-imageAlt: Auritech Biker Earplugs - Intelligent Hearing Protection for Motorcyclists
+rightImageAlt: Auritech Biker Earplugs - Intelligent Hearing Protection for Motorcyclists
 tags:
   - product
-image: /static/img/biker-pack.jpg
+rightImage: /static/img/biker-pack.jpg
 ---
 **Precision noise filtration**
 

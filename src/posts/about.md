@@ -9,10 +9,10 @@ date: 2024-02-26T16:00:11.986Z
 type: Article
 productRating: "4.6"
 productReviews: "300"
-imageAlt: Recommended Ear Plugs
+rightImageAlt: Recommended Ear Plugs
 tags:
   - article
-image: /static/img/recommended.png
+rightImage: /static/img/recommended.png
 ---
 
 

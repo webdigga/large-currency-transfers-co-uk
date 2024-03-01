@@ -29,21 +29,39 @@ collections:
       - { label: "Affiliate name", name: "affiliateName", widget: "string", required: false }
       - { label: "Product rating", name: "productRating", widget: "string", required: false }
       - { label: "Product reviews", name: "productReviews", widget: "string", required: false }
-      - { label: "Image Alt", name: "imageAlt", widget: "string", required: false }
       - widget: select
         label: "tags"
         name: "tags"
         multiple: true
         create: true
         options: ["product, article"]
-      - label: "Image"
-        name: "image"
+      - label: "Right image"
+        name: "rightImage"
         widget: "image"
         choose_url: true
         required: false
         media_library:
           config:
             multiple: false
+      - { label: "Top image descriptive text", name: "topImageAlt", widget: "string", required: false }
+      - label: "Top image"
+        name: "topImage"
+        widget: "image"
+        choose_url: true
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { label: "Top image descriptive text", name: "topImageAlt", widget: "string", required: false }
+      - label: "Bottom image"
+        name: "bottomImage"
+        widget: "image"
+        choose_url: true
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { label: "Bottom image descriptive text", name: "bottomImageAlt", widget: "string", required: false }
   - label: "ProductCard"
     name: "productCard"
     folder: "src/productCards"

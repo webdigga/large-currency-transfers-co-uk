@@ -23,10 +23,10 @@ affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-
 affiliateName: Amazon
 productRating: "4.2"
 productReviews: "11"
-imageAlt: Work Ear Plugs
+rightImageAlt: Work Ear Plugs
 tags:
   - product
-image: /static/img/work-pack.jpg
+rightImage: /static/img/work-pack.jpg
 ---
 For over two decades, Auritech WORK Hearing Protectors have been meticulously crafted by top audiology experts, surpassing traditional foam, wax, or silicone earplugs in quality and effectiveness.
 

@@ -9,11 +9,11 @@ affiliateLink: https://www.amazon.co.uk/AURITECH-WATER-SPORTS-Intelligent-Protec
 affiliateName: Amazon
 productRating: "3.1"
 productReviews: "30"
-imageAlt: Auritech water sports earplugs - Intelligent Hearing Protection for
+rightImageAlt: Auritech water sports earplugs - Intelligent Hearing Protection for
   Swimming and other Water Sports
 tags:
   - product
-image: /static/img/water-sports.jpg
+rightImage: /static/img/water-sports.jpg
 ---
 **Why Buy Auritech Swimming Ear Plugs**
 
