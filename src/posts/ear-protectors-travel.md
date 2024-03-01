@@ -4,7 +4,7 @@ description: Auritech Travel Earplugs - Intelligent Hearing Protection for
   Flying and Travelling
 author: David White
 date: 2024-02-26T12:17:13.673Z
-type: Article
+type: article
 affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-Travelling/dp/B06XHJS2CN?maas=maas_adg_BA64DC7534EB1E48EF34F98E1DAD6759_afap_abs&ref_=aa_maas&tag=maas
 affiliateName: Amazon
 isAmazon: true

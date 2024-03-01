@@ -18,7 +18,7 @@ description: " Introducing Auritech, the pioneers of Universal-Fit Hearing
   Universal-Fit Hearing Protectors."
 author: Jonny Rowse
 date: 2024-02-28T12:48:57.860Z
-type: Article
+type: article
 affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-Environments/dp/B06XHKKGHB?maas=maas_adg_5EC43EE113062B5397551B39C7E07525_afap_abs&ref_=aa_maas&tag=maas
 affiliateName: Amazon
 isAmazon: true
