@@ -14,8 +14,8 @@ tags:
   - product
 rightImage: /static/img/music.jpg
 rightImageAlt: Auritech Music Earplugs- Intelligent Hearing Protection for music lovers
-topImage: /static/img/hero-image-music.jpg
-topImageAlt: dfgdfgd
+topImage: ""
+topImageAlt: ""
 ---
 **Experience precision noise filtration designed specifically for listening to live music and providing essential hearing protection for musicians.**
 
@@ -23,6 +23,8 @@ topImageAlt: dfgdfgd
 * Elevate your music enjoyment while safeguarding your hearing with Auritech Music Earplugs.
 
 Experience uninterrupted conversations and clear communication with Auritech Music Earplugs, without any muffling effect.
+
+![sdfsdf](/static/img/hero-image-music.jpg "sfdsdfsd")
 
 **Discover why Auritech Hearing Protectors for Music are essential for your musical endeavors:**
 
