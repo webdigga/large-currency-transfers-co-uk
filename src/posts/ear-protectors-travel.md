@@ -1,7 +1,7 @@
 ---
 title: Travelling Ear Plugs
-description: Travelling Ear Plugs with precision noise filtration. CE-approved
-  for your peace of mind.
+description: Auritech Travel Earplugs - Intelligent Hearing Protection for
+  Flying and Travelling
 author: David White
 date: 2024-02-26T12:17:13.673Z
 type: Article
@@ -9,8 +9,7 @@ affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-
 affiliateName: Amazon
 productRating: "3.3"
 productReviews: "4"
-imageAlt: Auritech Travel Earplugs - Intelligent Hearing Protection for Flying
-  and Travelling
+imageAlt: Auritech Travel Earplugs
 tags:
   - product
 image: /static/img/travel.jpg
