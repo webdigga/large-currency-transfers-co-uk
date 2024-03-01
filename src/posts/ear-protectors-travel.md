@@ -1,6 +1,6 @@
 ---
 title: Travelling Ear Plugs
-description: Travelling Ear Plugs with precision noise filtration CE-approved
+description: Travelling Ear Plugs with precision noise filtration. CE-approved
   for your peace of mind.
 author: David White
 date: 2024-02-26T12:17:13.673Z
