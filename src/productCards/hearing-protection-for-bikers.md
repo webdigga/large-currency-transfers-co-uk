@@ -10,5 +10,5 @@ affiliateLink: https://www.amazon.co.uk/Auritech-BIKER-Earplugs-Intelligent-Moto
 imageAlt: Biker Ear Plugs
 productRating: "4.2"
 productReviews: "433"
-image: /static/img/biker_ear_plus_300x190.jpg
+image: /static/img/biker_ear_plus_300x190.webp
 ---
