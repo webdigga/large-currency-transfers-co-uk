@@ -20,14 +20,14 @@ author: Jonny Rowse
 date: 2024-02-28T12:48:57.860Z
 type: article
 affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-Environments/dp/B06XHKKGHB?maas=maas_adg_5EC43EE113062B5397551B39C7E07525_afap_abs&ref_=aa_maas&tag=maas
-affiliateName: Amazon
 isAmazon: true
+affiliateName: Amazon
 productRating: "4.2"
 productReviews: "11"
-rightImageAlt: Work Ear Plugs
 tags:
   - product
-rightImage: /static/img/work-pack.jpg
+rightImage: /static/img/work-pack.webp
+rightImageAlt: Work Ear Plugs
 ---
 For over two decades, Auritech WORK Hearing Protectors have been meticulously crafted by top audiology experts, surpassing traditional foam, wax, or silicone earplugs in quality and effectiveness.
 
