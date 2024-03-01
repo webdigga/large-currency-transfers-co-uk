@@ -11,7 +11,7 @@ tags:
   - product
 rightImage: /static/img/custom_fit_review.png
 ---
-Auritech Custom Made earplugs are renowned for their exceptional comfort and remarkable effectiveness. When seeking the ultimate hearing protection for your activity, look no furth**er.**
+Auritech Custom Made earplugs are renowned for their exceptional comfort and remarkable effectiveness. When seeking the ultimate hearing protection for your activity, look no further.
 
 **How We Create Your Custom Made Ear Plugs:**
 
@@ -27,7 +27,7 @@ Typically, a set of moulded earplugs lasts for at least 5 years depending on usa
 
 **The advantages of Auritech Custom Fit Ear Plugs**
 
-* Select from our range of 6 different ceramic filters, each offering specific attenuation values tailored to your specific application**.**
+* Select from our range of 6 different ceramic filters, each offering specific attenuation values tailored to your specific application.
 * CE-approved
 * Available in both hard and soft formats, providing options to suit your individual preferences and comfort needs.
 * Communicate effectively even while wearing them.

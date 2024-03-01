@@ -53,15 +53,6 @@ collections:
           config:
             multiple: false
       - { label: "Top image descriptive text", name: "topImageAlt", widget: "string", required: false }
-      - label: "Bottom image"
-        name: "bottomImage"
-        widget: "image"
-        choose_url: true
-        required: false
-        media_library:
-          config:
-            multiple: false
-      - { label: "Bottom image descriptive text", name: "bottomImageAlt", widget: "string", required: false }
   - label: "ProductCard"
     name: "productCard"
     folder: "src/productCards"
