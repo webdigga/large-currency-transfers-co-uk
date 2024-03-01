@@ -24,8 +24,6 @@ topImageAlt: ""
 
 Experience uninterrupted conversations and clear communication with Auritech Music Earplugs, without any muffling effect.
 
-![sdfsdf](/static/img/hero-image-music.jpg "sfdsdfsd")
-
 **Discover why Auritech Hearing Protectors for Music are essential for your musical endeavors:**
 
 * Protection from Harmful Noise Levels: Music events, whether live concerts or rehearsals, can expose you to high decibel levels that can cause permanent hearing damage. Auritech Hearing Protectors offer crucial protection, safeguarding your ears from excessive noise.
