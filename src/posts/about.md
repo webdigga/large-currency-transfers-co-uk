@@ -1,5 +1,5 @@
 ---
-title: Aboutsss
+title: About
 description: " Experience the difference with Auritech earplugs, featuring
   patented Ceramic Filtration Technology for unparalleled protection and sound
   quality. With precision noise filtration, you'll hear exactly what you want
