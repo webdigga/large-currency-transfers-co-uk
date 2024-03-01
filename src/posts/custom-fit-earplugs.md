@@ -5,12 +5,12 @@ author: David White
 date: 2024-02-26T14:45:30.703Z
 type: article
 affiliateLink: https://www.auritech.co.uk/custom-fit-earplugs.html?utm_source=arragon_affiliates&utm_content=home_page
-affiliateName: Auritech
 isAmazon: false
-rightImageAlt: MCN Quality rating
+affiliateName: Auritech
 tags:
   - product
-rightImage: /static/img/custom_fit_review.png
+rightImage: /static/img/custom_fit_review.webp
+rightImageAlt: MCN Quality rating
 ---
 Auritech Custom Made earplugs are renowned for their exceptional comfort and remarkable effectiveness. When seeking the ultimate hearing protection for your activity, look no further.
 
