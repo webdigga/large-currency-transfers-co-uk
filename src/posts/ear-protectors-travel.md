@@ -1,7 +1,7 @@
 ---
 title: Travelling Ear Plugs
-description: Experience precision noise filtration with Auritech Hearing
-  Protectors, CE-approved for your peace of mind.
+description: Travelling Ear Plugs with precision noise filtration CE-approved
+  for your peace of mind.
 author: David White
 date: 2024-02-26T12:17:13.673Z
 type: Article
@@ -16,6 +16,8 @@ tags:
 image: /static/img/travel.jpg
 ---
 Our innovative design allows you to engage in conversations while muting background travel noise. Say goodbye to the muffling and occlusion effect commonly experienced with other earplugs. With no mould required, these earplugs offer a universal fit for hassle-free use. Plus, they're reusable, washable, and exceptionally comfortable for extended wear. Choose Auritech for superior hearing protection without compromise.
+
+**Why Choose Auritech Ear Plugs For Travelling?**
 
 * Precision Noise Filtration, CE-approved
 * Allows you to hear conversation, while background travel noise is muted.
