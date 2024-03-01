@@ -7,8 +7,6 @@ description: " Experience the difference with Auritech earplugs, featuring
 author: Jonny Rowse
 date: 2024-02-26T16:00:11.986Z
 type: Article
-productRating: "4.6"
-productReviews: "300"
 rightImageAlt: Recommended Ear Plugs
 tags:
   - article
