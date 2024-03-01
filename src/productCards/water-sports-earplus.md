@@ -8,5 +8,5 @@ affiliateLink: https://www.amazon.co.uk/AURITECH-WATER-SPORTS-Intelligent-Protec
 imageAlt: Water Sport Ear Protection
 productRating: "4.5"
 productReviews: "30"
-image: /static/img/screenshot-2024-02-27-16.07.42.webp
+image: /static/img/screenshot-2024-02-27-16.07.42.png
 ---
