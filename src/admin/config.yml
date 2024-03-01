@@ -43,7 +43,7 @@ collections:
         media_library:
           config:
             multiple: false
-      - { label: "Top image descriptive text", name: "topImageAlt", widget: "string", required: false }
+      - { label: "Right image descriptive text", name: "rightImageAlt", widget: "string", required: false }
       - label: "Top image"
         name: "topImage"
         widget: "image"
