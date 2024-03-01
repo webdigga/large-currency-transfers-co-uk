@@ -1,4 +1,6 @@
 ---
+topImageAlt: ""
+topImage: ""
 title: Music Ear Plugs
 description: Auritech Music Earplugs provide exceptional hearing protection
   without compromising on sound quality, perfect for musicians and music lovers
@@ -7,16 +9,14 @@ author: David White
 date: 2024-02-26T14:45:30.703Z
 type: article
 affiliateLink: https://www.amazon.co.uk/Auritech-Earplugs-Intelligent-Hearing-Protection/dp/B00DEJDAZQ?maas=maas_adg_B4BC438E3258C0E4687516CF93C21EE1_afap_abs&ref_=aa_maas&tag=maas
-affiliateName: Amazon
 isAmazon: true
+affiliateName: Amazon
 productRating: "4.2"
 productReviews: "41"
 tags:
   - product
-rightImage: /static/img/music.jpg
+rightImage: /static/img/music.webp
 rightImageAlt: Auritech Music Earplugs- Intelligent Hearing Protection for music lovers
-topImage: ""
-topImageAlt: ""
 ---
 **Experience precision noise filtration designed specifically for listening to live music and providing essential hearing protection for musicians.**
 
