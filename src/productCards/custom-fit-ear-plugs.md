@@ -8,5 +8,5 @@ affiliateLink: https://www.auritech.co.uk/custom-fit-earplugs.html?utm_source=ar
 imageAlt: Custom Fit Ear Plugs
 productRating: "5"
 productReviews: "100"
-image: /static/img/custom_ear_plugs_300x190.webp
+image: /static/img/custom_ear_plugs_300x190.jpg
 ---
