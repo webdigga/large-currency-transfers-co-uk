@@ -10,5 +10,5 @@ affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-
 imageAlt: Ear Plugs For Workers
 productRating: "4.2"
 productReviews: "11"
-image: /static/img/work_ear_plug_300x190.png
+image: /static/img/work_ear_plug_300x190.webp
 ---
