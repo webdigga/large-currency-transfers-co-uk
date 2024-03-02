@@ -33,7 +33,7 @@ For over two decades, Auritech WORK Hearing Protectors have been meticulously cr
 
 Our precision-tuned, patented ceramic sound filters offer unmatched protection from hazardous noise levels commonly found in work or factory environments exceeding 80dB. Despite this robust protection, our earplugs allow for clear listening to surrounding conversations without causing a muffled effect.
 
-Why Choose Auritech Ear Plugs For Workers
+**Why Choose Auritech Ear Plugs For Workers**
 
 *  Reduce machine and tool noise, ensuring a quieter, safer and more comfortable environment for your workforce.
 * Enhanced concentration and communication
