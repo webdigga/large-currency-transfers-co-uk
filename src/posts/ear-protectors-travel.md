@@ -15,7 +15,7 @@ tags:
 rightImage: /static/img/travel.webp
 rightImageAlt: Auritech Travel Earplugs
 ---
-Our innovative design allows you to engage in conversations while muting background travel noise. Say goodbye to the muffling and occlusion effect commonly experienced with other earplugs. With no mould required, these earplugs offer a universal fit for hassle-free use. Plus, they're reusable, washable, and exceptionally comfortable for extended wear. Choose Auritech for superior hearing protection without compromise.
+Auritech TRAVEL Hearing Protectors are meticulously calibrated for optimal attenuation at frequencies essential for comfortable and peaceful air travel.
 
 **Why Choose Auritech Ear Plugs For Travelling?**
 
@@ -28,3 +28,7 @@ Our innovative design allows you to engage in conversations while muting backgro
 * Relaxing & soothing
 * No muffling - allows for conversation
 * Amazon Choice Product
+
+Our innovative design allows you to engage in conversations while muting background travel noise. Say goodbye to the muffling and occlusion effect commonly experienced with other earplugs. With no mould required, these earplugs offer a universal fit for hassle-free use. Plus, they're reusable, washable, and exceptionally comfortable for extended wear. Choose Auritech for superior hearing protection without compromise.
+
+IN STOCK - Buy from Amazon today!
