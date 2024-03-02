@@ -31,9 +31,7 @@ Engage in shooting activities with confidence, knowing that Auritech SHOOT Heari
 * Long-lasting and Durable: Auritech shooting earplugs are built to last, providing reliable protection over many uses.
 * Expertise and Reputation: Developed by leading audiology experts with over 20 years of experience, Auritech shooting earplugs are trusted by professionals and enthusiasts alike for their effectiveness and reliability.
 
-
-
-AUritech Ear Protection for shooting are precision-tuned, patented ceramic sound filters offer maximum protection from shooting and other high-noise activities like fireworks, while preserving clear surrounding conversation without muffling. Specifically designed for shooting enthusiasts, Auritech Shoot Hearing Protectors deliver optimum attenuation at the frequencies crucial for shooting.
+Auritech Ear Protection for shooting are precision-tuned, patented ceramic sound filters offer maximum protection from shooting and other high-noise activities like fireworks, while preserving clear surrounding conversation without muffling. Specifically designed for shooting enthusiasts, Auritech Shoot Hearing Protectors deliver optimum attenuation at the frequencies crucial for shooting.
 
 Constructed from silicone-free, hypoallergenic thermoplastic, our earplugs are washable, reusable, and supremely comfortable for all ages. Independently measured sound attenuation (EN352-2:2002) averages 29.5dB at the most damaging frequencies. Don't compromise on your hearing protection – trust Auritech for unmatched performance and comfort on the shooting range.
 
