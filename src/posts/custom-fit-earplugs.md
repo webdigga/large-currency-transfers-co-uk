@@ -1,5 +1,5 @@
 ---
-title: Custom Fit Ear Plugs
+title: Custom Fit Moulded Ear Plugs
 description: Custom Moulded Hearing Protection
 author: David White
 date: 2024-02-26T14:45:30.703Z
