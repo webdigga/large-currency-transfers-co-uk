@@ -27,7 +27,7 @@ Engage in shooting activities with confidence, knowing that Auritech SHOOT Heari
 
 * Precision-tuned Ceramic Filters: Our earplugs feature precision-tuned ceramic filters that provide maximum protection from loud noises typically encountered during shooting activities, while still allowing you to hear important sounds like conversations and range commands.
 * Comfortable Fit: Auritech shooting earplugs are designed for comfort, ensuring you can wear them for extended periods without discomfort or irritation.
-* Customizable Options: We offer a range of options to suit different preferences, including customizable filters and earplug materials.
+* Customisable Options: We offer a range of options to suit different preferences, including customizable filters and earplug materials.
 * Long-lasting and Durable: Auritech shooting earplugs are built to last, providing reliable protection over many uses.
 * Expertise and Reputation: Developed by leading audiology experts with over 20 years of experience, Auritech shooting earplugs are trusted by professionals and enthusiasts alike for their effectiveness and reliability.
 
