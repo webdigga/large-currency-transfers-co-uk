@@ -1,5 +1,5 @@
 ---
-title: Ear Protection For Shooting
+title: Ear protection for shooting
 description: Auritech is the best ear and hearing protection for shooting
 author: Jonny Rowse
 date: 2024-02-28T12:31:36.062Z
