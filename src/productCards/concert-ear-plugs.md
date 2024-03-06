@@ -1,5 +1,5 @@
 ---
-title: Concert Ear Plugs
+title: Concert earplugs
 description: Our precision-tuned, patented ceramic sound filters provide maximum
   protection against dangerous noise levels from loud music.
 articleLink: /posts/ear-protectors-music/
