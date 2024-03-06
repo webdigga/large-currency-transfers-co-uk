@@ -1,5 +1,5 @@
 ---
-title: Ear Protection For Shooting
+title: Ear protection for shooting
 description: Auritech is the best ear and hearing protection for shooting
 author: Jonny Rowse
 date: 2024-02-28T12:31:36.062Z
@@ -23,7 +23,7 @@ Engage in shooting activities with confidence, knowing that Auritech SHOOT Heari
 * You can hear conversations and natural sounds while still protecting your hearing. Stay connected to your surroundings with optimal protection.
 * The ideal protection for all shooting activities
 
-## What makes Auritech shooting ear plugs different?
+## What makes Auritech shooting earplugs different?
 
 * Our earplugs have ceramic filters that protect your ears from loud noises while shooting. These filters allow you to hear important sounds such as talking and commands at the shooting range.
 * Auritech shooting earplugs are made for comfort, so you can wear them for a long time without any discomfort.
