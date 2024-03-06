@@ -1,5 +1,5 @@
 ---
-title: Hearing protection for bikers.
+title: Hearing protection for bikers
 description: Experience precision noise filtration like never before with
   Auritech's advanced technology. Our ear plugs effectively reduce wind and road
   noise, ensuring a smoother and more enjoyable journey. Stay connected with
