@@ -17,7 +17,7 @@ rightImageAlt: Auritech travel earplugs
 ---
 Auritech TRAVEL Hearing Protectors are meticulously calibrated for optimal attenuation at frequencies essential for comfortable and peaceful air travel.
 
-## Why choose auritech ear plugs for travelling?
+## Why choose auritech earplugs for travelling?
 
 * Precision Noise Filtration, CE-approved
 * Allows you to hear conversation, while background travel noise is muted.
