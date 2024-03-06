@@ -23,7 +23,7 @@ rightImageAlt: Auritech Biker Ear plugs - Intelligent Hearing Protection for Mot
 * Precision Noise Filtration
 * Amazon's Choice Product
 
-Get ultimate comfort and convenience with Auritech BIKER Hearing Protectors. They're comfy for long wear, easy to wash, and can be used again and again for a long time..
+Get ultimate comfort and convenience with Auritech BIKER Hearing Protectors. They're comfy for long wear, easy to wash, and can be used again and again for a long time.
 
 ## **Why do I need Auritech motorcycle hearing protection?**
 
