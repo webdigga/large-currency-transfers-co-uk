@@ -1,5 +1,5 @@
 ---
-title: Ear protection for shooting
+title: Ear Protection For Shooting
 description: Auritech is the best ear and hearing protection for shooting
 author: Jonny Rowse
 date: 2024-02-28T12:31:36.062Z
@@ -16,7 +16,7 @@ rightImageAlt: Ear Protection For Shooting
 ---
 Engage in shooting activities with confidence, knowing that Auritech SHOOT Hearing Protectors have your hearing covered. Loud noises from shooting can cause permanent damage, even at lower levels. It's important to use hearing protection. Developed over two decades by leading experts, Auritech SHOOT Hearing Protectors outshine traditional foam, wax, or silicone earplugs.
 
-## Why Choose Auritech Ear Protection For Shooting:
+## Why choose Auritech ear protection for shooting:
 
 * Support for shooting safety by effectively reducing noise levels and protecting your hearing during shooting activities.
 * Reduced Gun Blast noise
