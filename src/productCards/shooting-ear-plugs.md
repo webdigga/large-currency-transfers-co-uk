@@ -1,5 +1,5 @@
 ---
-title: Shooting earplugs
+title: Shooting ear plugs
 description: " Benefit from precision-tuned, patented ceramic sound filters that
   provide unparalleled protection during shooting and other high-noise
   activities such as fireworks. Despite their robust protection, these filters
