@@ -29,7 +29,7 @@ Get ultimate comfort and convenience with Auritech BIKER Hearing Protectors. The
 
 Wind noise on a motorbike can reach levels of up to 105dB, while motorsport spectators may experience levels of up to 130dB. Motorbike riders should always wear earplugs to protect their hearing, as exposure to 85dB can cause permanent damage.
 
-## **What makes Auritech ear plugs for bikers different?**
+## **What makes Auritech earplugs for bikers different?**
 
 Auritech BIKER Hearing Protectors are top-quality earplugs, better than foam, wax, or silicone ones. Experts have worked on them for over 20 years.
 
