@@ -1,7 +1,7 @@
 ---
 topImageAlt: ""
 topImage: ""
-title: Music Earplugs for live music and musicians
+title: Music earplugs for live music and musicians
 description: Auritech Music Earplugs provide exceptional hearing protection
   without compromising on sound quality, perfect for musicians and music lovers
   alike.
