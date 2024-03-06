@@ -15,7 +15,7 @@ tags:
 rightImage: /static/img/biker-pack.webp
 rightImageAlt: Auritech Biker Earplugs - Intelligent Hearing Protection for Motorcyclists
 ---
-## **Why Choose Auritech Ear Defenders For Bikers**
+## **Why choose Auritech ear defenders for bikers?**
 
 * Reduce wind and road noise with Auritech BIKER Hearing Protectors for a more comfortable and safe riding experience.
 * Stay connected on the road with Auritech BIKER Hearing Protectors, which allow seamless communication and intercom use while riding.
