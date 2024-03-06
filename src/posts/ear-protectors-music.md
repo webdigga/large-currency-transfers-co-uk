@@ -26,7 +26,7 @@ Hearing damage can occur at 85dB. It is important to protect your ears. This app
 ## Why choose Auritech hearing protectors for concerts & festivals?
 
 * The ideal protection for your ears for Music, Concert & Festival lovers.
-* Enhanced music enjoyment with Auritech ear plugs for concerts, providing crystal-clear sound quality for an immersive listening experience.
+* Enhanced music enjoyment with Auritech earplugs for concerts, providing crystal-clear sound quality for an immersive listening experience.
 * With patented ceramic filtration technology, setting Auritech earplugs apart with unparalleled performance and protection.
 * No muffling effect
 * Built from silicone-free, hypoallergenic thermoplastic
