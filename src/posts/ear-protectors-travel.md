@@ -1,6 +1,6 @@
 ---
-title: Travelling earplugs with pressure reduction
-description: Auritech travel earplugs - intelligent hearing protection for
+title: Travelling ear plugs with pressure reduction
+description: Auritech travel ear plugs - intelligent hearing protection for
   flying and travelling
 author: David White
 date: 2024-02-26T12:17:13.673Z
@@ -13,11 +13,11 @@ productReviews: "4"
 tags:
   - product
 rightImage: /static/img/travel.webp
-rightImageAlt: Auritech travel earplugs
+rightImageAlt: Auritech travel ear plugs
 ---
 Auritech TRAVEL Hearing Protectors are meticulously calibrated for optimal attenuation at frequencies essential for comfortable and peaceful air travel.
 
-## Why choose auritech earplugs for travelling?
+## Why choose auritech ear plugs for travelling?
 
 * Precision Noise Filtration, CE-approved
 * Allows you to hear conversation, while background travel noise is muted.
@@ -29,8 +29,8 @@ Auritech TRAVEL Hearing Protectors are meticulously calibrated for optimal atten
 * No muffling - allows for conversation
 * Amazon Choice Product
 
-Our innovative design allows you to engage in conversations while muting background travel noise. Say goodbye to the muffling and occlusion effect commonly experienced with other earplugs.
+Our innovative design allows you to engage in conversations while muting background travel noise. Say goodbye to the muffling and occlusion effect commonly experienced with other ear plugs.
 
-With no mould required, these earplugs offer a universal fit for hassle-free use. Plus, they're reusable, washable, and exceptionally comfortable for extended wear. Choose Auritech for superior hearing protection without compromise.
+With no mould required, these ear plugs offer a universal fit for hassle-free use. Plus, they're reusable, washable, and exceptionally comfortable for extended wear. Choose Auritech for superior hearing protection without compromise.
 
 IN STOCK - Buy from Amazon today!
