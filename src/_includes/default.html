@@ -86,9 +86,10 @@
       <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     {% endif %}
 
-	{% include "./partials/cookie-consent.html" %}
-
 	{% if env.isProd %}
+
+		{% include "./partials/cookie-consent.html" %}
+
 		<script>
 			const grantConsentButton = document.getElementById('grant-consent');
 
