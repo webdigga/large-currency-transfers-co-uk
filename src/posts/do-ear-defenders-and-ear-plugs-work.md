@@ -9,6 +9,7 @@ isAmazon: false
 tags:
   - blog
 rightImage: /static/img/pexels-andrea-piacquadio-3760607.webp
+rightImageAlt: Man holding cup to ear
 ---
 Ear defenders, also known as earmuffs or earplugs, serve a crucial role in protecting ears from loud noises and mitigating the effects of tinnitus. By diminishing the intensity of sound waves that reach the eardrums, they effectively lower the risk of hearing damage or loss.
 
