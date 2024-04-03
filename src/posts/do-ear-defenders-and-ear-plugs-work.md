@@ -3,7 +3,7 @@ title: Do ear defenders and ear plugs work?
 description: " Ear defenders are specifically engineered to shield ears from
   noise pollution by decreasing the level of sound that reaches them."
 author: Arragon Affiliates
-date: April 3, 2024
+date: 2024-04-03
 type: article
 isAmazon: false
 tags:

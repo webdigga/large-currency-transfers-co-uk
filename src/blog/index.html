@@ -24,7 +24,7 @@ layout: blogList
                 </p>
             {% endif %}
 
-			<p>{{ blog.data.date }}</p>
+			<p>{{ blog.data.date | readableDate }}</p>
 
             <p>
                 <a href="{{ blog.url | url }}" class="text-indigo-500 font-bold text-lg">
