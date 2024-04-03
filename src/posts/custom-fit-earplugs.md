@@ -4,7 +4,7 @@ description: Custom Moulded Hearing Protection
 author: David White
 date: 2024-02-26T14:45:30.703Z
 type: article
-affiliateLink: https://www.auritech.co.uk/custom-fit-earplugs.html?utm_source=arragon_affiliates&utm_content=home_page
+affiliateLink: ""
 isAmazon: false
 affiliateName: Auritech
 tags:
