@@ -61,10 +61,10 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Article Link", name: "articleLink", widget: "string" }
-      - { label: "Affiliate Link", name: "affiliateLink", widget: "string" }
+      - { label: "Affiliate Link", name: "affiliateLink", widget: "string", required: false }
       - { label: "Image Alt", name: "imageAlt", widget: "string" }
-      - { label: "Product rating", name: "productRating", widget: "string" }
-      - { label: "Product reviews", name: "productReviews", widget: "string" }
+      - { label: "Product rating", name: "productRating", widget: "string", required: false }
+      - { label: "Product reviews", name: "productReviews", widget: "string", required: false }
       - label: "Image"
         name: "image"
         widget: "image"
