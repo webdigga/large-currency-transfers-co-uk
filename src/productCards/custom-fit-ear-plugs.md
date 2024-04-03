@@ -9,4 +9,5 @@ imageAlt: Custom fit ear plugs
 productRating: "5"
 productReviews: "100"
 image: /static/img/custom_ear_plugs_300x190.jpg
+order: 9
 ---

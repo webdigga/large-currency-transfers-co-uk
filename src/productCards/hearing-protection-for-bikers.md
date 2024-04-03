@@ -11,4 +11,5 @@ imageAlt: Biker ear plugs
 productRating: "4.2"
 productReviews: "433"
 image: /static/img/biker_ear_plus_300x190.jpg
+order: 1
 ---

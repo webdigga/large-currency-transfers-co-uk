@@ -8,4 +8,5 @@ imageAlt: Music ear protectors
 productRating: "4.2"
 productReviews: "41"
 image: /static/img/amazon_music-ear_plugs.jpg
+order: 5
 ---

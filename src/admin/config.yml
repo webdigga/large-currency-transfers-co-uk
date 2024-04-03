@@ -72,6 +72,7 @@ collections:
         media_library:
           config:
             multiple: false
+      - { label: "Order", name: "order", widget: "number" }
   - label: "Hero"
     name: "hero"
     folder: "src/hero"

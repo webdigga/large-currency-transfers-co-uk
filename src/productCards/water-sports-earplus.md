@@ -9,4 +9,5 @@ imageAlt: Water sports ear protection
 productRating: "4.5"
 productReviews: "30"
 image: /static/img/screenshot-2024-02-27-16.07.42.png
+order: 8
 ---

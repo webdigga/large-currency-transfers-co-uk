@@ -11,4 +11,5 @@ imageAlt: Ear protection for shooting
 productRating: "4.2"
 productReviews: "226"
 image: /static/img/shooting_ear_plugs_300x190.jpg
+order: 2
 ---

@@ -9,4 +9,5 @@ imageAlt: Ear plugs for travelling
 productRating: "3.3"
 productReviews: "4"
 image: /static/img/amazon-travel.jpg
+order: 7
 ---

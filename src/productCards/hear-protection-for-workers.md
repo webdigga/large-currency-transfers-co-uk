@@ -11,4 +11,5 @@ imageAlt: Ear plugs for workers
 productRating: "4.2"
 productReviews: "11"
 image: /static/img/work_ear_plug_300x190.png
+order: 4
 ---
