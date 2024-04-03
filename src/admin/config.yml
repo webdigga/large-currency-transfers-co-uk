@@ -22,9 +22,13 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Author", name: "author", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        date_format: "DD/MM/YYYY" # e.g. 24.12.2021
+        time_format: "HH:mm" # e.g. 21:07
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Type", name: "type", widget: "string", default: "Article" }
+      - { label: "Type", name: "type", widget: "string", default: "article" }
       - { label: "Affiliate link", name: "affiliateLink", widget: "string", required: false }
       - { 
         label: "Is this an Amazon product?",
@@ -41,7 +45,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["product", "article"]
+        options: ["product", "article", "blog"]
       - label: "Right image"
         name: "rightImage"
         widget: "image"

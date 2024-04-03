@@ -3,7 +3,7 @@ title: Privacy policy
 description: Cookie consent
 author: David White
 date: 2024-02-29T17:13:10.382Z
-type: Article
+type: article
 tags:
   - article
 ---

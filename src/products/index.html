@@ -1,0 +1,33 @@
+---
+layout: articleList
+---
+
+<section class="mt-15">
+    {% set productlist = collections.productPosts %}
+
+    {% for product in productlist | reverse %}
+        <article class="my-8">
+            <h2 class="font-bold text-3xl text-gray-900 mb-2">
+                <a href="{{ product.url | url }}">
+                    {% if product.data.title %}
+                        {{ product.data.title }}
+                    {% else %}
+                        Untitled
+                    {% endif %}
+                </a>
+            </h2>
+            {% if product.data.description %}
+                <p class="text-lg text-gray-500 mb-3">
+                    {{ product.data.description }}
+                </p>
+            {% endif %}
+
+            <p>
+                <a href="{{ product.url | url }}" class="text-indigo-500 font-bold text-lg">
+                    Read more →
+                </a>
+            </p>
+
+        </article>
+    {% endfor %}
+</section>

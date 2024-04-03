@@ -47,7 +47,7 @@ prism: true
     <article class="prose my-4 max-w-none flex flex-col md:block">
 
 		{% if rightImage %}
-			<img src="{{ rightImage }}" alt="{{ rightImageAlt }}" class="ml-auto mr-auto md:ml-4 max-w-64 md:float-right" />
+			<img src="{{ rightImage }}" alt="{{ rightImageAlt }}" class="{% if 'blog' not in tags %}max-w-64 ml-auto mr-auto{% endif %} md:ml-4 md:max-w-64 md:float-right" />
 		{% endif %}
 
 		{{ content | safe }}		
