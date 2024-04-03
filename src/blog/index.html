@@ -24,13 +24,11 @@ layout: blogList
                 </p>
             {% endif %}
 
-			<p>{{ blog.data.date | readableDate }}</p>
+			<time class="text-gray-500 mb-3 text-sm italic block">{{ blog.data.date | readableDate }}</time>
 
-            <p>
-                <a href="{{ blog.url | url }}" class="text-indigo-500 font-bold text-lg">
-                    Read more →
-                </a>
-            </p>
+			<a href="{{ blog.url | url }}" class="text-indigo-500 font-bold text-lg">
+				Read more →
+			</a>
 
         </article>
     {% endfor %}
