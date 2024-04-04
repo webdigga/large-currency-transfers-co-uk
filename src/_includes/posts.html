@@ -10,7 +10,7 @@ prism: true
 		<div class="inline-flex {% if 'blog' in tags %}items-end{% else %}items-center{% endif %} justify-end">
 
 			{% if 'blog' in tags %}
-				<time class="text-gray-500 text-sm italic block">{{ date | readableDate }}</time>
+				<time class="text-gray-500 text-sm italic block md:text-right min-w-28">{{ date | readableDate }}</time>
 			{% endif %}
 
 			{% if productRating %}
