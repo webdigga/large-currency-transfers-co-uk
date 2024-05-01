@@ -8,5 +8,6 @@ imageAlt: Concert Ear Protectors
 productRating: "4.2"
 productReviews: "41"
 image: /static/img/amazon_music-ear_plugs.jpg
+badgeText: Best Value
 order: 3
 ---

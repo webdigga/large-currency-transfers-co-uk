@@ -9,6 +9,7 @@
   --primary-hover: rgb(30 64 175);
   --affiliate-color: #FFD814;
   --affiliate-hover: #F7CA00;
+  --badge-color: #35853a;
 }
 
 h1 {
@@ -28,3 +29,9 @@ body pre[class*="language-"] {
 
 /* To stop flicker after deferring Alpine JS */
 [x-cloak] { display: none !important; }
+
+.badge-border::after {
+  border-right-width: 11px;
+  border-bottom-width: 11px;
+  bottom: -0.71rem;
+}
