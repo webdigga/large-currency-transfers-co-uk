@@ -1,4 +1,4 @@
-# Ear protectors affiliate site
+# Best ear plugs affiliate site
 
 ### Technologies used:
 
