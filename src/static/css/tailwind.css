@@ -33,5 +33,5 @@ body pre[class*="language-"] {
 .badge-border::after {
   border-right-width: 11px;
   border-bottom-width: 11px;
-  bottom: -0.71rem;
+  bottom: -0.68rem;
 }
