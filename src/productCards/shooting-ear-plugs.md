@@ -1,16 +1,17 @@
 ---
-title: Shooting ear plugs
-description: " Benefit from precision-tuned, patented ceramic sound filters that
-  provide unparalleled protection during shooting and other high-noise
-  activities such as fireworks. Despite their robust protection, these filters
-  enable clear listening to surrounding conversations without causing a muffled
-  effect."
+title: Ear Defenders For Shooting
+description: Auritech Shoot Ear Protectors are specifically designed to provide
+  exceptional hearing protection for shooting enthusiasts. Their high-level
+  noise reduction provides maximum protection against high decibel levels and
+  are idea for shooting ranges, hunting and competitive shooting. Developed with
+  over 20 years of expertise, these ear defenders for shooting offer superior
+  performance compared to traditional foam, wax, or silicone earplugs.
 articleLink: /posts/shooting-ear-plugs/
-affiliateLink: https://www.amazon.co.uk/AURITECH-Earplugs-Intelligent-Protection-shooting/dp/B06XHK1LVX?maas=maas_adg_F54FC9572F114A1B9F5EB90C2E8D607C_afap_abs&ref_=aa_maas&tag=maas
+affiliateLink: https://www.amazon.co.uk/AURITECH-Earplugs-Intelligent-Protection-shooting/dp/B06XHK1LVX?maas=maas_adg_C19F75B350CB809C46E0BAE1ECF3F32D_afap_abs&ref_=aa_maas&tag=maas
 imageAlt: Ear protection for shooting
 productRating: "4.2"
 productReviews: "226"
-image: /static/img/shooting_ear_plugs_300x190.jpg
 badgeText: Best Choice
+image: /static/img/shooting_ear_plugs_300x190.jpg
 order: 2
 ---
