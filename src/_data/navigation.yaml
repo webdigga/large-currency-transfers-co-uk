@@ -1,4 +1,6 @@
 items:
+  - text: Home
+    url: /
   - text: Hearing Protection For Bikers
     url: https://www.amazon.co.uk/Auritech-BIKER-Earplugs-Intelligent-Motorcyclists/dp/B01FUFT0SW?maas=maas_adg_B7D3AC475D4216DAE6B9BD13342E9D15_afap_abs&ref_=aa_maas&tag=maas
   - text: Shooting Ear Plugs
