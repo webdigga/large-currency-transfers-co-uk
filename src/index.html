@@ -1,18 +1,19 @@
 ---
 layout: default
 path: home
+type: home
 ---
 
 <div class="container mx-auto flex flex-col justify-center items-center">
 
   <!-- Product cards -->
   <div class="grid grid-cols-1 gap-8 px-4">
-	<h1 class="text-left px-4 mt-7 mb-4 self-start pl-0">Best Ear Plugs in the UK</h1>
+    <h1 class="text-left px-4 mt-7 mb-4 self-start pl-0">Best Ear Plugs in the UK</h1>
 
-	{% set productCardList = collections.productCard %}
+    {% set productCardList = collections.productCard %}
 
     {% for productCard in productCardList | sort(false, true, 'data.order') %}
-		{% include "./_includes/components/product-card.html" %}
+      {% include "./_includes/components/product-card.html" %}
     {% endfor %}
   </div>
 </div>

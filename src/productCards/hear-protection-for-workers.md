@@ -8,7 +8,6 @@ description: Invest in high-quality ear protection to ensure your hearing
   hypoallergenic materials for long-lasting comfort, even during extended use.
   Prioritise your hearing health with Auritech Work Hearing Protectors,
   specifically designed to meet the demands of noisy work environments.
-articleLink: /posts/hearing-protectors-for-workers/
 affiliateLink: https://www.amazon.co.uk/Auritech-Intelligent-Hearing-Protection-Environments/dp/B06XHKKGHB?maas=maas_adg_94CDBFDD849F8748EB8655F4DD2D1FF0_afap_abs&ref_=aa_maas&tag=maas
 imageAlt: Ear Protection for Workers
 productRating: "4.2"

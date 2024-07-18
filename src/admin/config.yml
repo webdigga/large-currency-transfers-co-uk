@@ -27,7 +27,11 @@ collections:
         widget: "datetime"
         format: "YYYY-MM-DD"
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Type", name: "type", widget: "string", default: "article" }
+      - widget: select
+        label: "type"
+        name: "type"
+        create: true
+        options: ["article", "blog", "privacy"]
       - { label: "Affiliate link", name: "affiliateLink", widget: "string", required: false }
       - { 
         label: "Is this an Amazon product?",
@@ -44,7 +48,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["product", "article", "blog"]
+        options: ["article", "blog", "privacy"]
       - label: "Right image"
         name: "rightImage"
         widget: "image"
@@ -63,7 +67,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Article Link", name: "articleLink", widget: "string" }
       - { label: "Affiliate Link", name: "affiliateLink", widget: "string", required: false }
       - { label: "Image Alt", name: "imageAlt", widget: "string" }
       - { label: "Product rating", name: "productRating", widget: "string", required: false }
