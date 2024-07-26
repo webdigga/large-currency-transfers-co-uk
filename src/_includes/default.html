@@ -15,65 +15,65 @@
 	  <meta name="robots" content="noindex"/>
 	{% endif %}
 
-	<meta name="google-site-verification" content="5aP3i0LZjFM0gMVbsZvg6YXH1t5-rmrSIloajyoaZm0" />
+	<meta name="google-site-verification" content="INSERTVERIFICATIONHERE" />
 
-    <title>
-      {% if title %}
-        {{ title }}
-      {% else %}
-        {{ settings.title }}
-      {% endif %}
-    </title>
-
-    <!-- If we're an article page -->
-    {% if description %}
-      <meta name="description" content="{{ description }}"/>
-      <meta name="og:description" property="og:description" content="{{ description }}">
-      <meta name="twitter:description" content="{{ description }}">
-    {% else %}
-      <meta name="description" content="{{ settings.description }}"/>
-      <meta name="og:description" property="og:description" content="{{ settings.description }}">
-      <meta name="twitter:description" content="{{ settings.description }}">
-    {% endif %}
-
-    <!-- If we're an article page -->
+  <title>
     {% if title %}
-      <meta name="og:title" property="og:title" content="{{ title }}">
-      <meta name="twitter:title" content="{{ title }}">
+      {{ title }}
     {% else %}
-      <meta name="og:title" property="og:title" content="{{ settings.title }}">
-      <meta name="twitter:title" content="{{ settings.title }}">
+      {{ settings.title }}
     {% endif %}
+  </title>
 
-    <!-- If we're an article page -->
-    {% if type %}
-      <meta name="og:type" property="og:type" content="{{ type }}">
-    {% else %}
-      <meta name="og:type" property="og:type" content="{{ settings.type }}">
-    {% endif %}
+  <!-- If we're an article page -->
+  {% if description %}
+    <meta name="description" content="{{ description }}"/>
+    <meta name="og:description" property="og:description" content="{{ description }}">
+    <meta name="twitter:description" content="{{ description }}">
+  {% else %}
+    <meta name="description" content="{{ settings.description }}"/>
+    <meta name="og:description" property="og:description" content="{{ settings.description }}">
+    <meta name="twitter:description" content="{{ settings.description }}">
+  {% endif %}
 
-    <meta name="og:site_name" property="og:site_name" content="{{ settings.title }}">
-    <meta name="twitter:site" content="{{ settings.title }}">
-    <meta name="og:locale" property="og:locale" content="en_GB">
-    
-    {% if title %}
-      <link rel="canonical" href="{{ env.site }}/{{ title | slugify }}/" />
-    {% endif %}
+  <!-- If we're an article page -->
+  {% if title %}
+    <meta name="og:title" property="og:title" content="{{ title }}">
+    <meta name="twitter:title" content="{{ title }}">
+  {% else %}
+    <meta name="og:title" property="og:title" content="{{ settings.title }}">
+    <meta name="twitter:title" content="{{ settings.title }}">
+  {% endif %}
 
-    {% if type === 'home' %}
-      <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "WebSite",
-          "name": "{{ settings.title }}",
-          "description": "{{ settings.description }}",
-          "image": "android-chrome-512x512.png",
-          "url": "{{ env.site }}"
-        }
-      </script>
-    {% endif %}
+  <!-- If we're an article page -->
+  {% if type %}
+    <meta name="og:type" property="og:type" content="{{ type }}">
+  {% else %}
+    <meta name="og:type" property="og:type" content="{{ settings.type }}">
+  {% endif %}
 
-    <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
+  <meta name="og:site_name" property="og:site_name" content="{{ settings.title }}">
+  <meta name="twitter:site" content="{{ settings.title }}">
+  <meta name="og:locale" property="og:locale" content="en_GB">
+  
+  {% if title %}
+    <link rel="canonical" href="{{ env.site }}/{{ title | slugify }}/" />
+  {% endif %}
+
+  {% if type === 'home' %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "{{ settings.title }}",
+        "description": "{{ settings.description }}",
+        "image": "android-chrome-512x512.png",
+        "url": "{{ env.site }}"
+      }
+    </script>
+  {% endif %}
+
+  <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
 
 	{% if env.isProd %}
 		<script>
@@ -87,7 +87,7 @@
 			'wait_for_update': 500,
 			});
 			gtag('js', new Date());
-			gtag('config', 'G-PNV11FR8FZ');
+			gtag('config', 'INSERTGTAGHERE');
 		</script>
 	{% endif %}
   </head>
@@ -130,7 +130,7 @@
 
           var gtagScript = document.createElement('script');
           gtagScript.defer = true;
-          gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-PNV11FR8FZ';
+          gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=INSERTGTAGHERE';
 
           var firstScript = document.getElementsByTagName('script')[0];
           firstScript.parentNode.insertBefore(gtagScript,firstScript);
