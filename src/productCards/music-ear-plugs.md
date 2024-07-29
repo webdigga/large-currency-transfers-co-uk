@@ -7,8 +7,6 @@ description: Developed over 20 years by leading experts, Auritech MUSIC Hearing
   compromising on sound quality.
 affiliateLink: https://www.amazon.co.uk/Auritech-Earplugs-Intelligent-Hearing-Protection/dp/B00DEJDAZQ/?maas=maas_adg_0D776ECEC3D69A9E6579964FFD9B1E1E_afap_abs&ref_=aa_maas&tag=maas
 imageAlt: Music ear protectors
-productRating: "4.2"
-productReviews: "41"
 image: /static/img/amazon_music-ear_plugs.jpg
 order: 5
 ---
