@@ -14,6 +14,6 @@ description: "Since 2003, Currency Solutions have been offering competitive
 affiliateLink: getquote.currencysolutions.com/currency-transfers/?utm_source=arragon_affiliates
 imageAlt: Currrency Solutions Logo
 badgeText: Best Value
-image: /static/img/currency_solutions_logo.webp
+image: /static/img/505.webp
 order: 1
 ---
