@@ -1,14 +1,14 @@
 ---
-title: Ear Defenders For Shooting
-description: Auritech Shoot Ear Protectors are specifically designed to provide
-  exceptional hearing protection for shooting enthusiasts. Their high-level
-  noise reduction provides maximum protection against high decibel levels and
-  are ideal for shooting ranges, hunting and competitive shooting. Developed with
-  over 20 years of expertise, these ear defenders for shooting offer superior
-  performance compared to traditional foam, wax, or silicone earplugs.
-affiliateLink: https://www.amazon.co.uk/AURITECH-Earplugs-Intelligent-Protection-shooting/dp/B06XHK1LVX?maas=maas_adg_C19F75B350CB809C46E0BAE1ECF3F32D_afap_abs&ref_=aa_maas&tag=maas
-imageAlt: Ear protection for shooting
-badgeText: Best Choice
-image: /static/img/shooting_ear_plugs_300x190.jpg
-order: 2
+title: Lumon Pay - Large Currency Transfer Brokers
+description: With a 4.5-star rating on Google and 5 stars on Trustpilot, TorFX
+  has been helping customers save time and money on currency transfers since
+  2004. Backed by the highest credit rating from Dun & Bradstreet, they are a
+  trusted leader in the large money transfer industry. Large Currency
+  Specialists. No transfer fees. Bank beating exchange rates. Support from a
+  dedicated currency specialist.
+affiliateLink: https://www.lumonpay.com/?gad_source=arragon_affiliates
+imageAlt: Lumon Pay Logo
+badgeText: New Entry
+image: /static/img/lumonpay-logo.webp
+order: 4
 ---
